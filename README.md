@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bilal Yousaf</h1>
 <h3 align="center">A passionate frontend and backend developer from Pakistan. Soon I will be working on Mobile App Development.</h3>
 
-<p align="left"> <img src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/421971148_432137119139563_2277172489881132083_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=JfGqQ0Zhsq4Q7kNvgHJn0uy&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYDFz5W37CusAXLbduwo57NLGbwJ4Z14mCI-OVLJ9Iq0TA&oe=66615752&_nc_sid=10d13b" alt="muhammdbilalyousaf" /> </p>
+/*<p align="left"> <img src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/421971148_432137119139563_2277172489881132083_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=JfGqQ0Zhsq4Q7kNvgHJn0uy&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYDFz5W37CusAXLbduwo57NLGbwJ4Z14mCI-OVLJ9Iq0TA&oe=66615752&_nc_sid=10d13b" alt="muhammdbilalyousaf" /> </p>*/
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammdbilalyousaf" alt="muhammdbilalyousaf" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/MuhammadBilalYousaf?tab=repositories)"><img src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/421971148_432137119139563_2277172489881132083_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=JfGqQ0Zhsq4Q7kNvgHJn0uy&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYDFz5W37CusAXLbduwo57NLGbwJ4Z14mCI-OVLJ9Iq0TA&oe=66615752&_nc_sid=10d13b" alt="muhammdbilalyousaf" width=30px height=30px /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bilalyousaf6294" target="blank"><img src="https://img.shields.io/twitter/follow/bilalyousaf6294?logo=twitter&style=for-the-badge" alt="bilalyousaf6294" /></a> </p>
 
